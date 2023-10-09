@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /
-title: Seminar Bridging Language in Machines and Language in the Brain
+title: Seminar
 description: Materials for courses you taught. Replace this text with your description.
 nav: false
 nav_order: 5
