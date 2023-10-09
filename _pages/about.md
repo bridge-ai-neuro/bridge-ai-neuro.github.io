@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /about
 subtitle: <a href='https://www.mpi-sws.org'>MPI-SWS</a>. Campus E1 5, Saarbrücken
 
 profile:
