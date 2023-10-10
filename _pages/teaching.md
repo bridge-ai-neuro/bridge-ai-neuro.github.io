@@ -5,6 +5,8 @@ title: "Seminar course: Bridging Language in Machines and Language in the Brain"
 description: 
 nav: false
 nav_order: 5
+toc:
+  beginning: true
 ---
 
 Current natural language processing (NLP) models (e.g. ChatGPT, GPT-4, etc.) have impressive capabilities, but how closely do they actually align with the capabilities of the only system that truly understands complex language--the human brain? In this seminar, we will review work that studies the existing alignment between the representations of language constructed by NLP models and the representations of language in the human brain obtained from brain imaging devices, as humans and models process the same language input. We will discuss the reasons for existing alignment, and some of the established remaining gaps. We will additionally review works that aim to bring NLP models closer to the human brain. Lastly, students will have the opportunity to propose and complete related projects.
@@ -13,7 +15,7 @@ Current natural language processing (NLP) models (e.g. ChatGPT, GPT-4, etc.) hav
 
 The course consists of five main components that contribute to the final grade as follows: 
   1. Introductory lessons: attendence and participation during classes (20%)
-  2. Presentations and reports of research papers: one presentation (10%) and two report (10%) for each student.
+  2. Presentations and reports of research papers: one presentation (10%) and two reports (10%) for each student.
   3. Project proposal (20%)
   4. Project report and code (20%)
   5. Final presentation (20%)
@@ -42,7 +44,33 @@ You will have to submit a report (no page limits utilizing the [NeurIPS template
 You will have to prepare a presentation of 20 mins. Your presentation will be based on the project, along with any relevant papers related to your project.
 
 ## Timeline
+Each lecture or presentation will take place on Tuesdays in room E15 005. Attendance in person is mandatory, but in cases where students are unable to attend the classes in person, they can also participate remotely via [Zoom](http://...).
+
+| Date |  | Notes |
+| :----------- | :------------: | ------------: |
+| Oct 25       | Lecture       | Room E15 005        |
+| Nov 1       | Lecture       | Room E15 005       |
+| Nov 15       | Presentations       | Room E15 005       |
+| Dec 6       | Presentations       | Room E15 005       |
+| Jan 16       | Office hours       |        |
+| Jan 30       | Project proposals due       |        |
+| Feb 13       | Finalize project proposal       |        |
+| Mar 1-15       | Final presentations       |        |
 
 ## List of research papers
+2 papers about establishing relationship between brains & LMs:
+  - [Schrimpf et al. 2021 PNAS](https://www.pnas.org/doi/10.1073/pnas.2105646118)
+  - [Antonello et al. 2023 preprint](https://arxiv.org/pdf/2305.11863.pdf)
+
+3 papers about why the two align:
+  - [Goldstein et al. 2022 Nature Neuroscience](https://www.nature.com/articles/s41593-022-01026-4)
+  - [Oota, Gupta, Toneva 2023 NeurIPS](https://arxiv.org/pdf/2212.08094.pdf)
+  - [Antonello and Huth 2022 Neurobiology of Language](https://direct.mit.edu/nol/article-pdf/doi/10.1162/nol_a_00087/2057101/nol_a_00087.pdf)
+
+3 papers about improving the alignment:
+  - [Aw and Toneva 2023 ICLR](https://openreview.net/pdf?id=KzkLAE49H9b)
+  - [Schwartz, Toneva, Wehbe 2019 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2019/file/2b8501af7b64d1aaae7dd832805f0709-Paper.pdf)
+  - [Sun and Moens 2023 IJCAI](https://www.ijcai.org/proceedings/2023/0577.pdf)
+
 
 
