@@ -57,14 +57,14 @@ Each lecture or presentation will take place on Tuesdays in room E15 005. Attend
 
 | Date |  | Notes |
 | :----------- | :------------: | ------------: |
-| Oct 24       | Lecture       | Room E15 005        |
-| Oct 31       | Lecture       | Room E15 005       |
-| Nov 14       | Presentations       | Room E15 005       |
-| Dec 5       | Presentations       | Room E15 005       |
-| Jan 16       | Office hours       |        |
+| Oct 24      | Lecture       | 1-2:30pm, Room E15 005        |
+| Oct 31       | Lecture       | 1-2:30pm, Room E15 005       |
+| Nov 14       | Paper presentations & reports      | 1-4pm, Room E15 **105**       |
+| Dec 5       | Paper presentations & reports        | 1-4pm, Room E15 **105**       |
+| Jan 9       | Office hours       |        |
 | Jan 30       | Project proposals due       |        |
 | Feb 13       | Finalize project proposal       |        |
-| Mar 1-15       | Final presentations       |        |
+| Mar 1-15       | Final project presentations       |        |
 
 ## List of research papers
 2 papers about establishing relationship between brains & LMs:
