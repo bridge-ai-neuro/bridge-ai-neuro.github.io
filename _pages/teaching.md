@@ -55,7 +55,7 @@ You will have to prepare a presentation of 20 mins. Your presentation will be ba
 ## Timeline
 Each lecture or presentation will take place on Tuesdays in room E15 005. Attendance in person is mandatory, but in cases where students are unable to attend the classes in person, they can also participate remotely via [Zoom](http://...).
 
-| Date |  | Notes |
+| Date |  | Time & Location |
 | :----------- | :------------: | ------------: |
 | Oct 31      | Lecture       | 1-2:30pm, Room E15 005        |
 | Nov 7       | Lecture       | 1-2:30pm, Room E15 005       |
