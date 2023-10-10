@@ -62,8 +62,9 @@ Each lecture or presentation will take place on Tuesdays in room E15 005. Attend
 | Nov 14       | Paper presentations & reports      | 1-4pm, Room E15 **105**       |
 | Dec 5       | Paper presentations & reports        | 1-4pm, Room E15 **105**       |
 | Jan 9       | Office hours       |        |
-| Jan 30       | Project proposals due       |        |
-| Feb 13       | Finalize project proposal       |        |
+| Jan 23       | Project proposals due       |        |
+| Feb 6       | Finalize project proposal       |        |
+| Feb 28       | Project report & code due       |        |
 | Mar 1-15       | Final project presentations       |        |
 
 ## List of research papers
