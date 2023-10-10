@@ -23,7 +23,7 @@ Current natural language processing (NLP) models (e.g. ChatGPT, GPT-4, etc.) hav
 ## Course structure
 
 The course consists of five main components that contribute to the final grade as follows: 
-  1. Introductory lessons: attendence and participation during classes (20%)
+  1. Attendence and participation during class (20%)
   2. Presentations and reports of research papers: one presentation (10%) and two reports (10%) for each student.
   3. Project proposal (20%)
   4. Project report and code (20%)
