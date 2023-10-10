@@ -59,8 +59,8 @@ Each lecture or presentation will take place on Tuesdays in room E15 005. Attend
 | :----------- | :------------: | ------------: |
 | Oct 31      | Lecture       | 1-2:30pm, Room E15 005        |
 | Nov 7       | Lecture       | 1-2:30pm, Room E15 005       |
-| Nov 21       | Paper presentations & reports      | 1-4pm, Room E15 **105**       |
-| Dec 5       | Paper presentations & reports        | 1-4pm, Room E15 **105**       |
+| Nov 21       | Paper presentations & reports      | 1-**4**pm, Room E15 **105**       |
+| Dec 5       | Paper presentations & reports        | 1-**4**pm, Room E15 **105**       |
 | Jan 9       | Office hours       |        |
 | Jan 23       | Project proposals due       |        |
 | Feb 6       | Finalize project proposal       |        |
