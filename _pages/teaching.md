@@ -69,17 +69,17 @@ The course will meet in person. See below for the dates and locations of each cl
 | Mar 1-15       | Final project presentations       |    TBD    |
 
 ## List of research papers
-2 papers about establishing relationship between brains & LMs:
+Measuring the alignment between brains & LMs:
   - [Toneva and Wehbe, 2019 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2019/file/749a8e6c231831ef7756db230b4359c8-Paper.pdf)
   - [Schrimpf et al. 2021 PNAS](https://www.pnas.org/doi/10.1073/pnas.2105646118)
   - [Antonello et al. 2023 preprint](https://arxiv.org/pdf/2305.11863.pdf)
 
-3 papers about why the two align:
+Understanding the reasons behind the existing alignment:
   - [Goldstein et al., 2022 Nature Neuroscience](https://www.nature.com/articles/s41593-022-01026-4)
   - [Oota, Gupta, and Toneva, 2023 NeurIPS](https://arxiv.org/pdf/2212.08094.pdf)
   - [Antonello and Huth, 2022 Neurobiology of Language](https://direct.mit.edu/nol/article-pdf/doi/10.1162/nol_a_00087/2057101/nol_a_00087.pdf)
 
-3 papers about improving the alignment:
+Improving the alignment further:
   - [Aw and Toneva, 2023 ICLR](https://openreview.net/pdf?id=KzkLAE49H9b)
   - [Schwartz, Toneva, and Wehbe, 2019 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2019/file/2b8501af7b64d1aaae7dd832805f0709-Paper.pdf)
   - [Sun and Moens, 2023 IJCAI](https://www.ijcai.org/proceedings/2023/0577.pdf)
