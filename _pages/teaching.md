@@ -54,7 +54,7 @@ Students will have the opportunity to pursue a research project of their choice,
 We ask that the project proposal is 2 pages and the project report is 8 pages, with the opportunity to submit additional content as a supplementary file. All reports should utilize the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn)).
 
 ## Timeline
-Each lecture or presentation will take place on Tuesdays in room E15 005. Attendance in person is mandatory, but in cases where students are unable to attend the classes in person, they can also participate remotely via [Zoom](http://...).
+The course will meet in person. See below for the dates and locations of each class. Note that class attendance and participation will both contribute to the final grade. We will block about 8 hours of time for the final project presentations. The exact dates will be finalized in discussion with enrolled students. Attendance at the final presentations will be mandatory.
 
 | Date |  | Time & Location |
 | :----------- | :------------: | ------------: |
@@ -66,7 +66,7 @@ Each lecture or presentation will take place on Tuesdays in room E15 005. Attend
 | Jan 23       | Project proposals due       |        |
 | Feb 6       | Finalize project proposal       |        |
 | Feb 28       | Project report & code due       |        |
-| Mar 1-15       | Final project presentations       |        |
+| Mar 1-15       | Final project presentations       |    TBD    |
 
 ## List of research papers
 2 papers about establishing relationship between brains & LMs:
