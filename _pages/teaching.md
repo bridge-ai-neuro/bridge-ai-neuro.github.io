@@ -31,10 +31,10 @@ The course consists of five main components that contribute to the final grade a
   5. Final presentation (20%)
 
 ### Introductory lectures
-We will begin the course with two lectures. These introductory sessions aim to familiarize students with fundamental concepts in machine learning and neuroscience that are needed for engaging with the research at the intersection between the two. The dates and locations of the lectures are specified in the timeline below.
+We will begin the course with two lectures. These introductory sessions aim to familiarize students with fundamental concepts in machine learning and neuroscience that are needed for engaging with the research at the intersection between the two fields. The dates and locations of the lectures are specified in the timeline below.
 
 ### Research paper presentations and reports
-In the course of the semester, there will be two days dedicated to discussing relevant research. During each of these days, we will discuss 4 research papers from the list below. On one of these days, a student will be expected to present a 20-minute presentation on one of these papers, and on the other the student will be expected to submit two 2-page reports on 2 of the papers (1 report per paper; reports should utilize the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn))). The research papers will be randomly assigned. Reports and presentation slides are due by the time of class. The dates and locations of the research paper discussions are specified in the #timeline below.
+In the course of the semester, there will be two days dedicated to discussing relevant research. During each of these days, we will discuss 4 research papers from the list below. On one of these days, a student will be expected to present a 20-minute presentation on one of these papers, and on the other the student will be expected to submit two 2-page reports on 2 of the papers (1 report per paper; reports should utilize the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn)). The research papers will be randomly assigned. Reports and presentation slides are due by the time of class. The dates and locations of the research paper discussions are specified in the #timeline below.
 
 Please structure the presentation/report as follows:
   - a short summary of the paper
@@ -51,7 +51,7 @@ Students will have the opportunity to pursue a research project of their choice,
 - complete the project and submit a report detailing the project and findings, as well as any related code
 - present the project (20 minute presentation)
 
-We ask that the project proposal is 2 pages and the project report is 8 pages, with the opportunity to submit additional content as a supplementary file. All reports should utilize the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn)).
+We ask that the project proposal is 2 pages and the project report is 8 pages, with the opportunity to submit additional content as a supplementary file. All reports should utilize the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn).
 
 ## Timeline
 The course will meet in person. See below for the dates and locations of each class. Note that class attendance and participation will both contribute to the final grade. We will block about 8 hours of time for the final project presentations. The exact dates will be finalized in discussion with enrolled students. Attendance at the final presentations will be mandatory.
