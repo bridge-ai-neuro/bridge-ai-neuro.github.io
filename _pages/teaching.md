@@ -36,7 +36,7 @@ The course consists of five main components that contribute to the final grade a
 At the start of the course, we will begin with two classes. These introductory sessions aim to familiarize students with fundamental concepts in neuroscience and the principles behind encoding models. During these initial lessons, our primary objective is to provide students with a solid foundation in basic neuroscientific principles and the understanding of encoding models used in the field.
 
 ### Research paper presentations and reports
-In the course of the entire semester, there will be **two** specific days dedicated to student presentations of research papers. Each presentation will have a duration of 20 minutes, followed by a 20-minute discussion. Half of the class will be responsible for delivering oral presentations, while the remaining half will be tasked with submitting two written reports on research papers (2-page utilizing the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn)). 
+In the course of the entire semester, there will be **two** days dedicated to student presentations of research papers. Each presentation will have a duration of 20 minutes, followed by a 20-minute discussion. Half of the class will be responsible for delivering oral presentations, while the remaining half will be tasked with submitting two written reports on research papers (2-page utilizing the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn)). 
 
 Structure the presentation/report as follows:
   - a short summary of the paper
@@ -72,7 +72,7 @@ Each lecture or presentation will take place on Tuesdays in room E15 005. Attend
 
 ## List of research papers
 2 papers about establishing relationship between brains & LMs:
-  - [Toneva and Wehbe, 2019 NeurIPS] )(https://proceedings.neurips.cc/paper_files/paper/2019/file/749a8e6c231831ef7756db230b4359c8-Paper.pdf)
+  - [Toneva and Wehbe, 2019 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2019/file/749a8e6c231831ef7756db230b4359c8-Paper.pdf)
   - [Schrimpf et al. 2021 PNAS](https://www.pnas.org/doi/10.1073/pnas.2105646118)
   - [Antonello et al. 2023 preprint](https://arxiv.org/pdf/2305.11863.pdf)
 
