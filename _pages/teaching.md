@@ -46,10 +46,10 @@ If you wish, you could also use these ideas to pursue as part of your project.
 
 ### Project 
 Students will have the opportunity to pursue a research project of their choice, or to select a topic from a pre-defined set. As part of the project, students will be expected to:
-1. submit a project proposal outlining the research question, proposed methodology, dataset, and closest related work
-2. incorporate feedback from the instructors about their proposed project
-3. complete the project and submit a report detailing the project and findings, as well as their code
-4. present their project (20 minute presentation)
+- submit a project proposal outlining the research question, proposed methodology, dataset, and closest related work
+- incorporate feedback from the instructors about the proposed project
+- complete the project and submit a report detailing the project and findings, as well as any related code
+- present the project (20 minute presentation)
 
 We ask that the project proposal is 2 pages and the project report is 8 pages, with the opportunity to submit additional content as a supplementary file. All reports should utilize the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn)).
 
@@ -83,6 +83,4 @@ Each lecture or presentation will take place on Tuesdays in room E15 005. Attend
   - [Aw and Toneva, 2023 ICLR](https://openreview.net/pdf?id=KzkLAE49H9b)
   - [Schwartz, Toneva, and Wehbe, 2019 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2019/file/2b8501af7b64d1aaae7dd832805f0709-Paper.pdf)
   - [Sun and Moens, 2023 IJCAI](https://www.ijcai.org/proceedings/2023/0577.pdf)
-
-
 
