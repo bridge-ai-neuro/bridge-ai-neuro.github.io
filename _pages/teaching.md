@@ -14,7 +14,7 @@ Instructor: [Mariya Toneva](https://mtoneva.com/)
 Teaching Assistant: [Gabriele Merlin](https://gab709.github.io/)
 
 - [Course structure](#course-structure)
-  - [Introductory lessons](#introductory-lessons)
+  - [Introductory lectures](#introductory-lectures)
   - [Research paper presentations and reports](#research-paper-presentations-and-reports)
   - [Project proposal](#project-proposal)
   - [Project report](#project-report)
@@ -32,7 +32,7 @@ The course consists of five main components that contribute to the final grade a
   4. Project report and code (20%)
   5. Final presentation (20%)
 
-### Introductory lessons
+### Introductory lectures
 At the start of the course, we will begin with two classes. These introductory sessions aim to familiarize students with fundamental concepts in neuroscience and the principles behind encoding models. During these initial lessons, our primary objective is to provide students with a solid foundation in basic neuroscientific principles and the understanding of encoding models used in the field.
 
 ### Research paper presentations and reports
@@ -52,7 +52,7 @@ Students will have the freedom to pursue a project of their choice. To begin, ea
 ### Project report
 You will have to submit a report (no page limits utilizing the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn)) and executable code for the project. Each student will work on the project separately (no teams).
 
-### Final presentation
+### Final project presentation
 You will have to prepare a presentation of 20 mins. Your presentation will be based on the project, along with any relevant papers related to your project.
 
 ## Timeline
