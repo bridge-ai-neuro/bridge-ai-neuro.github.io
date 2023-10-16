@@ -10,6 +10,9 @@ nav_order: 5
 
 Current natural language processing (NLP) models (e.g. ChatGPT, GPT-4, etc.) have impressive capabilities, but how closely do they actually align with the capabilities of the only system that truly understands complex language--the human brain? In this seminar, we will review work that studies the existing alignment between the representations of language constructed by NLP models and the representations of language in the human brain obtained from brain imaging devices, as humans and models process the same language input. We will discuss the reasons for existing alignment, and some of the established remaining gaps. We will additionally review works that aim to bring NLP models closer to the human brain. Lastly, students will have the opportunity to propose and complete related projects.
 
+Instructor: [Mariya Toneva](https://mtoneva.com/)
+Teaching Assistant: [Gabriele Merlin](https://gab709.github.io/)
+
 - [Course structure](#course-structure)
   - [Introductory lessons](#introductory-lessons)
   - [Research paper presentations and reports](#research-paper-presentations-and-reports)
@@ -69,18 +72,19 @@ Each lecture or presentation will take place on Tuesdays in room E15 005. Attend
 
 ## List of research papers
 2 papers about establishing relationship between brains & LMs:
+  - [Toneva and Wehbe, 2019 NeurIPS] )(https://proceedings.neurips.cc/paper_files/paper/2019/file/749a8e6c231831ef7756db230b4359c8-Paper.pdf)
   - [Schrimpf et al. 2021 PNAS](https://www.pnas.org/doi/10.1073/pnas.2105646118)
   - [Antonello et al. 2023 preprint](https://arxiv.org/pdf/2305.11863.pdf)
 
 3 papers about why the two align:
-  - [Goldstein et al. 2022 Nature Neuroscience](https://www.nature.com/articles/s41593-022-01026-4)
-  - [Oota, Gupta, Toneva 2023 NeurIPS](https://arxiv.org/pdf/2212.08094.pdf)
-  - [Antonello and Huth 2022 Neurobiology of Language](https://direct.mit.edu/nol/article-pdf/doi/10.1162/nol_a_00087/2057101/nol_a_00087.pdf)
+  - [Goldstein et al., 2022 Nature Neuroscience](https://www.nature.com/articles/s41593-022-01026-4)
+  - [Oota, Gupta, and Toneva, 2023 NeurIPS](https://arxiv.org/pdf/2212.08094.pdf)
+  - [Antonello and Huth, 2022 Neurobiology of Language](https://direct.mit.edu/nol/article-pdf/doi/10.1162/nol_a_00087/2057101/nol_a_00087.pdf)
 
 3 papers about improving the alignment:
-  - [Aw and Toneva 2023 ICLR](https://openreview.net/pdf?id=KzkLAE49H9b)
-  - [Schwartz, Toneva, Wehbe 2019 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2019/file/2b8501af7b64d1aaae7dd832805f0709-Paper.pdf)
-  - [Sun and Moens 2023 IJCAI](https://www.ijcai.org/proceedings/2023/0577.pdf)
+  - [Aw and Toneva, 2023 ICLR](https://openreview.net/pdf?id=KzkLAE49H9b)
+  - [Schwartz, Toneva, and Wehbe, 2019 NeurIPS](https://proceedings.neurips.cc/paper_files/paper/2019/file/2b8501af7b64d1aaae7dd832805f0709-Paper.pdf)
+  - [Sun and Moens, 2023 IJCAI](https://www.ijcai.org/proceedings/2023/0577.pdf)
 
 
 
