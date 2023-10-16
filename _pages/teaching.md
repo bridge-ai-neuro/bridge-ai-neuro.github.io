@@ -16,9 +16,7 @@ Teaching Assistant: [Gabriele Merlin](https://gab709.github.io/)
 - [Course structure](#course-structure)
   - [Introductory lectures](#introductory-lectures)
   - [Research paper presentations and reports](#research-paper-presentations-and-reports)
-  - [Project proposal](#project-proposal)
-  - [Project report](#project-report)
-  - [Final presentation](#final-presentation)
+  - [Project](#project)
 - [Timeline](#timeline)
 - [List of research papers](#list-of-research-papers)
 
@@ -33,12 +31,12 @@ The course consists of five main components that contribute to the final grade a
   5. Final presentation (20%)
 
 ### Introductory lectures
-At the start of the course, we will begin with two classes. These introductory sessions aim to familiarize students with fundamental concepts in neuroscience and the principles behind encoding models. During these initial lessons, our primary objective is to provide students with a solid foundation in basic neuroscientific principles and the understanding of encoding models used in the field.
+We will begin the course with two lectures. These introductory sessions aim to familiarize students with fundamental concepts in machine learning and neuroscience that are needed for engaging with the research at their intersection. The dates and locations of the lectures are specified in the #timeline below.
 
 ### Research paper presentations and reports
-In the course of the entire semester, there will be **two** days dedicated to student presentations of research papers. Each presentation will have a duration of 20 minutes, followed by a 20-minute discussion. Half of the class will be responsible for delivering oral presentations, while the remaining half will be tasked with submitting two written reports on research papers (2-page utilizing the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn)). 
+In the course of the semester, there will be two days dedicated to discussing relevant research. During each of these days, we will discuss 4 research papers from the list below. On one of these days, a student will be expected to present a 20-minute presentation on one of these papers, and on the other the student will be expected to submit two 2-page reports on 2 of the papers (1 report per paper; reports should utilize the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn))). The research papers will be randomly assigned. Reports and presentation slides are due by the time of class. The dates and locations of the research paper discussions are specified in the #timeline below.
 
-Structure the presentation/report as follows:
+Please Structure the presentation/report as follows:
   - a short summary of the paper
   - a discussion on how the paper extends state of the art
   - the main strengths of the paper.
@@ -46,14 +44,8 @@ Structure the presentation/report as follows:
   - discuss how this paper could be improved.
 If you wish, you could also use these ideas to pursue as part of your project.
 
-### Project proposal
-Students will have the freedom to pursue a project of their choice. To begin, each student will submit project proposals. The project could be related to the seminar papers, or it could also be new directions you are most excited about. Based on your project proposals and discussions a concrete project will be picked. 
-
-### Project report
-You will have to submit a report (no page limits utilizing the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn)) and executable code for the project. Each student will work on the project separately (no teams).
-
-### Final project presentation
-You will have to prepare a presentation of 20 mins. Your presentation will be based on the project, along with any relevant papers related to your project.
+### Project 
+Students will have the opportunity to pursue a research project of their choice, or to select a topic from a pre-defined set. As part of the project, students will be expected to (1) submit a project proposal outlining the research question, proposed methodology, dataset, and closest related work, (2) incorporate feedback from the instructors about their proposed project, (3) complete the project and submit a report detailing the project and findings, as well as their code, (4) present their project (20 minute presentation). We ask that the project proposal is 2 pages and the project report is 8 pages, with the opportunity to submit additional content as a supplementary file. All reports should utilize the [NeurIPS template](https://www.overleaf.com/latex/templates/neurips-2021-ai-for-science-workshop/mqdhgfxfxkgn)).
 
 ## Timeline
 Each lecture or presentation will take place on Tuesdays in room E15 005. Attendance in person is mandatory, but in cases where students are unable to attend the classes in person, they can also participate remotely via [Zoom](http://...).
