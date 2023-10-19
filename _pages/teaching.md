@@ -58,13 +58,14 @@ The course will meet in person. See below for the dates and locations of each cl
 
 | Date |  | Time & Location |
 | :----------- | :------------: | ------------: |
-| Oct 31      | Lecture       | 1-2:30pm, Room E15 005        |
-| Nov 7       | Lecture       | 1-2:30pm, Room E15 005       |
-| Nov 21       | Paper presentations & reports      | 1-**4**pm, Room E15 **105**       |
-| Dec 5       | Paper presentations & reports        | 1-**4**pm, Room E15 **105**       |
-| Jan 9       | Office hours       |        |
-| Jan 23       | Project proposals due       |        |
-| Feb 6       | Finalize project proposal       |        |
+| Oct 31      | Lecture       | 1-2:30pm, Room E1 5 005        |
+| Nov 7       | Lecture       | 1-2:30pm, Room E1 5 005       |
+| Nov 21       | Paper presentations & reports      | 1-**4**pm, Room E1 5 **105**       |
+| Dec 5       | Paper presentations & reports        | 1-**4**pm, Room E1 5 **105**       |
+| Dec 12       | Office hours for projects       | 3-5pm, Online       |
+| Jan 9       | Project proposals due      |        |
+| Jan 16       | Instructors send feedback on project proposals via email       |        |
+| Feb 6       | Office hours for projects        |   1-3pm, Room E1 5 438    |
 | Feb 28       | Project report & code due       |        |
 | Mar 1-15       | Final project presentations       |    TBD    |
 
