@@ -39,9 +39,9 @@ In the course of the semester, there will be two days dedicated to discussing re
 Please structure the presentation/report as follows:
   - a short summary of the paper
   - a discussion on how the paper extends state of the art
-  - the main strengths of the paper.
+  - the main strengths of the paper
   - the main weaknesses of the paper
-  - discuss how this paper could be improved.
+  - discuss how this paper could be improved
 If you wish, you could also use these ideas to pursue as part of your project.
 
 ### Project 
