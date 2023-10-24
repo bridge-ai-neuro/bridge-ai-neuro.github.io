@@ -42,6 +42,7 @@ Please structure the presentation/report as follows:
   - the main strengths of the paper
   - the main weaknesses of the paper
   - discuss how this paper could be improved
+    
 If you wish, you could also use these ideas to pursue as part of your project.
 
 ### Project 
