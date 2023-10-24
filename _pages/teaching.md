@@ -25,7 +25,7 @@ Teaching Assistant: [Gabriele Merlin](https://gab709.github.io/)
 
 The course consists of five main components that contribute to the final grade as follows: 
   1. Attendance and participation during class (20%)
-  2. Presentations and reports of research papers: one presentation (10%) and two reports (10%) for each student.
+  2. Presentations and reports of research papers: one presentation (10%) and two reports (10%)
   3. Project proposal (20%)
   4. Project report and code (20%)
   5. Final presentation (20%)
