@@ -59,8 +59,8 @@ The course will meet in person. See below for the dates and locations of each cl
 
 | Date |  | Time & Location |
 | :----------- | :------------: | ------------: |
-| Oct 31      | Lecture [[slides](https://docs.google.com/presentation/d/187AygnEfJNZyOiClhGCtAV2lnVE-ThpxC6IO91OqiUM/edit?usp=sharing)]  | 1-2:30pm, Room E1 5 005        |
-| Nov 7       | Lecture [[slides](https://docs.google.com/presentation/d/1JBBUqeZLLxztLiXFb9z3RfRGglE7jVRCspH_VG4Atoo/edit?usp=sharing)]      | 1-2:30pm, Room E1 5 005       |
+| Oct 31      | Lecture 1: LLMs and estimating alignment [[slides](https://docs.google.com/presentation/d/187AygnEfJNZyOiClhGCtAV2lnVE-ThpxC6IO91OqiUM/edit?usp=sharing)]  | 1-2:30pm, Room E1 5 005        |
+| Nov 7       | Lecture 2: Neuroscience [[slides](https://docs.google.com/presentation/d/1JBBUqeZLLxztLiXFb9z3RfRGglE7jVRCspH_VG4Atoo/edit?usp=sharing)]      | 1-2:30pm, Room E1 5 005       |
 | Nov 21       | Paper presentations & reports      | 1-**4**pm, Room E1 5 **105**       |
 | Dec 5       | Paper presentations & reports        | 1-**4**pm, Room E1 5 **105**       |
 | Dec 12       | Office hours for projects       | 3-5pm, Online       |
