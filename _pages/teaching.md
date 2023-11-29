@@ -64,11 +64,12 @@ The course will meet in person. See below for the dates and locations of each cl
 | Nov 21       | Paper presentations & reports      | 1-**4**pm, Room E1 5 **105**       |
 | Dec 5       | Paper presentations & reports        | 1-**4**pm, Room E1 5 **105**       |
 | Dec 12       | Office hours for projects       | 3-5pm, Online       |
-| Jan 9       | Project proposals due      |        |
+| Dec 19       | "First draft" of project proposals due       |        |
+| Jan 9       | "Final" Project proposals due      |        |
 | Jan 16       | Instructors send feedback on project proposals via email       |        |
-| Feb 6       | Office hours for projects        |   1-3pm, Room E1 5 438    |
-| Feb 28       | Project report & code due       |        |
-| Mar 1-15       | Final project presentations       |    TBD    |
+| Jan 23       | Office hours for projects        |   1-3pm, Room E1 5 438    |
+| Feb 13       | Project report & code due       |        |
+| Feb 20       | Final project presentations       |    9 am-5:30 pm, TBD   |
 
 ## List of research papers
 Measuring the alignment between brains & LMs:
