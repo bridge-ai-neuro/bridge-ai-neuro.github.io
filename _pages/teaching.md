@@ -68,8 +68,8 @@ The course will meet in person. See below for the dates and locations of each cl
 | Jan 9       | Final project proposals due      |        |
 | Jan 16       | Instructors send feedback on project proposals via email       |        |
 | Jan 23       | [Optional] Office hours for projects        |   1-3pm, Room E1 5 438    |
-| Feb 13       | Project report & code due       |        |
-| Feb 20       | Final project presentations       |    9am-5:30pm, TBD   |
+| Mar 6       | Project report & code due       |        |
+| Mar 13       | Final project presentations       |    9am-5:30pm, TBD   |
 
 ## List of research papers
 Measuring the alignment between brains & LMs:
