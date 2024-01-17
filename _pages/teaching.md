@@ -59,17 +59,17 @@ The course will meet in person. See below for the dates and locations of each cl
 
 | Date |  | Time & Location |
 | :----------- | :------------: | ------------: |
-| Oct 31      | Lecture 1: LLMs and estimating alignment [[slides](https://docs.google.com/presentation/d/187AygnEfJNZyOiClhGCtAV2lnVE-ThpxC6IO91OqiUM/edit?usp=sharing)]  | 1-2:30pm, Room E1 5 005        |
-| Nov 7       | Lecture 2: Neuroscience [[slides](https://docs.google.com/presentation/d/1JBBUqeZLLxztLiXFb9z3RfRGglE7jVRCspH_VG4Atoo/edit?usp=sharing)]      | 1-2:30pm, Room E1 5 005       |
-| Nov 21       | Paper presentations & reports      | 1-**4**pm, Room E1 5 **105**       |
-| Dec 5       | Paper presentations & reports        | 1-**4**pm, Room E1 5 **105**       |
+| Oct 31      | Lecture 1: LLMs and estimating alignment [[slides](https://docs.google.com/presentation/d/187AygnEfJNZyOiClhGCtAV2lnVE-ThpxC6IO91OqiUM/edit?usp=sharing)]  | 1-2:30pm, Room 005, E1 5        |
+| Nov 7       | Lecture 2: Neuroscience [[slides](https://docs.google.com/presentation/d/1JBBUqeZLLxztLiXFb9z3RfRGglE7jVRCspH_VG4Atoo/edit?usp=sharing)]      | 1-2:30pm, Room 005, E1 5       |
+| Nov 21       | Paper presentations & reports      | 1-**4**pm, Room **105**, E1 5       |
+| Dec 5       | Paper presentations & reports        | 1-**4**pm, Room **105**, E1 5        |
 | Dec 12       | Office hours for projects       | 3-5pm, Online       |
 | Dec 19       | [Optional] First draft of project proposals due       |        |
 | Jan 9       | Final project proposals due      |        |
 | Jan 16       | Instructors send feedback on project proposals via email       |        |
-| Jan 23       | [Optional] Office hours for projects        |   1-3pm, Room E1 5 438    |
+| Jan 23       | [Optional] Office hours for projects        |   1-3pm, Room 438, E1 5    |
 | Mar 6       | Project report & code due       |        |
-| Mar 13       | Final project presentations       |    9am-5:30pm, TBD   |
+| Mar 13       | Final project presentations       |    9am-4pm, Room 029, E1 5   |
 
 ## List of research papers
 Measuring the alignment between brains & LMs:
